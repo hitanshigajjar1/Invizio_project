@@ -1,0 +1,17 @@
+.section-login{
+    background-color: #eee;
+    /* margin-bottom: 30px; */
+  }
+  
+  .error-message {
+    color: red;
+    font-size: 12px;
+    margin-top: -10px;
+    margin-bottom: 10px;
+  }
+
+/* section button{
+    width: 400px;
+} */
+  
+  
